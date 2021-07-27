@@ -2,4 +2,4 @@
 
 <strong> Racing Unmanned craft, powered (controlled) by React </strong>
 
-<p> This main branch does not contain any code. To see various implementations of react-racecar, navigate to one of the other branches </p>
+<p> This repository houses the sub-modules necessary for operating the stack as well as any models used in the designing of vehicles </p>
