@@ -1,0 +1,6 @@
+[submodule "racecar-frontend"]
+	path = racecar-frontend
+	url = https://github.com/gnikxela0328/racecar-frontend
+[submodule "racecar-middleware"]
+	path = racecar-middleware
+	url = https://github.com/gnikxela0328/racecar-middleware.git
